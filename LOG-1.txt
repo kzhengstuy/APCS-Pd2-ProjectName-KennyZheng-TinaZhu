@@ -1,0 +1,25 @@
+LOG 1
+
+Date: Tuesday, June 3, 2014
+
+
+MEMBERS: Tina Zhu and Kenny Zheng
+
+Details:
+
+Project Idea:
+
+Based on the game War:
+
+Our idea is a strategy game.
+The ultimate goal is to conquer more of the board in the time limit.
+
+The starting position is in the corners for four players or left/right 
+for two players.
+
+This game requires tactical decisions to either capture or build troops
+to strengthen yourself before fighting.
+
+
+
+ 
