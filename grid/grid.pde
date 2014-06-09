@@ -1,16 +1,16 @@
-
+ 
 // Example 16-6: Drawing a grid of squares
 
 // Size of each cell in the grid, ratio of window size to video size
 // 80 * 8 = 640
 // 60 * 8 = 480
-int videoScale = 8;
+int videoScale = 80;
 
 // Number of columns and rows in our system
 int cols, rows;
 
 void setup() {
-  size(640,480);
+  size(800,640);
   
   // Initialize columns and rows
   cols = width/videoScale;
