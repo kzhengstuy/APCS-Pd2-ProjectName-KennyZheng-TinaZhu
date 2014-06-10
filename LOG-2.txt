@@ -1,0 +1,7 @@
+Day 2!!!
+
+GUI Work and bit of test code
+
+basic area calculator in code.
+
+
