@@ -31,18 +31,18 @@ void draw() {
       double n = Math.random();
       
       
-      if(n > .5){    
+      if(j%2==0&&i%2==0){    
       fill(#0FF51C);
-      stroke(1);
+      stroke(255);
       ellipse(x+videoScale/2,y+videoScale/2,videoScale,videoScale);
       }
       fill(#F50F2E);
-      stroke(1);
+      stroke(255);
       ellipse(0+videoScale/2,0+videoScale/2,videoScale,videoScale);
       
       fill(#210FF5);
-      stroke(1);
-      ellipse(850+videoScale/2,100+videoScale/2,videoScale,videoScale);
+      stroke(255);
+      ellipse(720+videoScale/2,561+videoScale/2,videoScale,videoScale);
       //else{
       //fill(255);
       //stroke(255);
