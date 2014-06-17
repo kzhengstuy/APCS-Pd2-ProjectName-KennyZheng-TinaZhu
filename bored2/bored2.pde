@@ -10,11 +10,12 @@
   
   // Number of columns and rows in our system
   int cols, rows;
+  PFont f;
   
   void setup() {
-    size(1200,960);
+    size(960,720);
     frameRate(1);
-    
+    f = createFont("Book Antiqua",20,true);
     // Initialize columns and rows
     cols = width/videoScale;
     rows = height/videoScale;
@@ -34,7 +35,7 @@
           int x = i*videoScale;
           int y = j*videoScale;
         
-              
+          
           if(int(random(0,10)) == 0 ){    
           fill(#0FF51C);
           stroke(255);
@@ -46,12 +47,16 @@
           
           fill(#210FF5);
           stroke(255);
-          ellipse(1119+videoScale/2,800+videoScale/2+40,current,current);
+          ellipse(width-videoScale/2,height-videoScale/2,current,current);
              
         }
-          }
-          
-    
+      }
     }
+    void text() {
+          textFont(f,16); 
+          text("Test",  100,100);
+    }  
+    
+    
     
 
