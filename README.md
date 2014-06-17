@@ -1,11 +1,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-APCS-Pd2-War-KennyZheng-TinaZhu
-===============================
-=======
-APCS-Pd2-ProjectName-KennyZheng-TinaZhu
-=======
-APCS-Pd2-War-KennyZheng-TinaZhu
->>>>>>> 1c259c3fd4d20970304466ef272dced3705d5e50
-=======================================
->>>>>>> ce126f08681d760ff3e74d4fb0aebe1e8d17bf08
+
+Tina Zhu and Kenny Zheng
+
+War was originally an attempt to recreate a variety of similarly designed strategy games with the same concept. Players face off in an arena with places to conquer and to raise their own troops. Taking over all the different nodes means victory.
+ 
+The player begins with one red node and the enemy starts off blue. There is no AI so the player must send the troops for both teams by clicking. They turn red/blue if your troops outnumber theirs. All nodes gain troops over time but nodes with more troops propagate faster.
+
+Works: The overall map is in good condition with slowly growing nodes and coloration. 
+
+Doesn't Work: The game is nonfunctional. Due to our low exposure to Java Processing and gradual learning, we have implemented functions to move troops over terrain at various speeds in accordance to distance as well as obstacles. It does not work as of yet and further testing is required.
+
+You can still run the file without errors in Processing.
