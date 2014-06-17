@@ -1,0 +1,9 @@
+LOG 5-8~
+
+
+Members: Kenny Zheng and Tina Zhu
+
+Work: checkpt1.pde is mostly from Tina 
+    : **Tina's github is not functioning correctly
+    : added new functions and testers
+       
